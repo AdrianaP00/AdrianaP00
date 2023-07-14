@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <h2 align="center" style="color: #F7207EFF; font-family: 'Poiret One', cursive;font-family: 'Signika', sans-serif;">Adriana Piccolo</h2>
 
