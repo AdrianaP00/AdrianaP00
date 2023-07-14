@@ -2,6 +2,8 @@
 
 <h2 align="left">Adriana Piccolo</h2>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7207E&width=435&lines=Your+favorite+backand+dev;Your+favorite+Junior+dev;If+you+are+an+HR+BUY+ME+pls!;Your+favorite+Junior+dev;Just+a+crybaby;Just+an+anime+lover)](https://git.io/typing-svg)
+
 ###
 
 <img align="right" height="137" src="https://media.giphy.com/media/ChX3hzy5CkXsI/giphy.gif"  />
@@ -77,11 +79,6 @@
 
 <br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdrianaP00/AdrianaP00/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdrianaP00/AdrianaP00/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AdrianaP00/AdrianaP00/output/github-contribution-grid-snake.svg">
-</picture>
 
 ###
 
