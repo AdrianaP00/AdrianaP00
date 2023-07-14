@@ -77,7 +77,11 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/AdrianaP00/AdrianaP00/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdrianaP00/AdrianaP00/output/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdrianaP00/AdrianaP00/output/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AdrianaP00/AdrianaP00/output/snake.svg">
+</picture>
 
 ###
 
