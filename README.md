@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<h2 align="left">Adriana Piccolo</h2>
+<h2 align="center" color= "#F7207EFF">Adriana Piccolo</h2>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7207E&width=435&lines=Your+favorite+backand+dev;Your+favorite+Junior+dev;If+you+are+an+HR+BUY+ME+pls!;Your+favorite+Junior+dev;Just+a+crybaby;Just+an+anime+lover)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7207E&center=true&vCenter=true&width=435&lines=Your+favorite+backand+dev;Your+favorite+Junior+dev;If+you+are+an+HR+BUY+ME+pls!;Your+favorite+Junior+dev;Just+a+crybaby;Just+an+anime+lover)](https://git.io/typing-svg)
 
 ###
 
