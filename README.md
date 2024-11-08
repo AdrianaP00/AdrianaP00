@@ -16,7 +16,7 @@ Adriana Piccolo
 
 ###
 
-<img align="right" height="137" src="https://i.makeagif.com/media/10-04-2024/k1-MsM.gif"  />
+<img align="right" height="137" src="[![SymJ9.gif](https://s11.gifyu.com/images/SymJ9.gif)](https://gifyu.com/image/SymJ9)"  />
 
 ###
 
