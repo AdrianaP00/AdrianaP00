@@ -16,7 +16,7 @@ Adriana Piccolo
 
 ###
 
-<img align="right" height="137" src="https://tenor.com/it/view/dan-da-dan-2024-dandadan-japanese-animated-gif-11122949774570478805"  />
+<img align="right" height="137" src="https://i.makeagif.com/media/10-04-2024/k1-MsM.gif"  />
 
 ###
 
