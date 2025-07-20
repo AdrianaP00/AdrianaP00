@@ -9,7 +9,7 @@ Adriana Piccolo
 <p align="center">
   
   <a href="https://github.com/AdrianaP00">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=fcd012&center=true&vCenter=true&width=435&lines=Your+favorite+backend+dev;Your+favorite+italian+dev;Your+favorite+Junior+dev;Just+a+crybaby;Just+an+anime+lover" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=fcd012&center=true&vCenter=true&width=435&lines=Your+favorite+backend+dev;Your+favorite+italian+dev;Your+favorite+full+stack+dev" /></a>
 
 </p>
 
