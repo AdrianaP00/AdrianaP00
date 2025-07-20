@@ -16,7 +16,7 @@ Adriana Piccolo
 
 ###
 
-<img align="right" height="137" src="https://s11.gifyu.com/images/SymJ9.gif"  />
+<img align="right" height="137" src="./.github/workflows/SojoboLogoWhiteLetter.png"  />
 
 ###
 
